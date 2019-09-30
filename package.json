@@ -16,7 +16,8 @@
     "url": "https://github.com/yankouskia/additional_4/issues"
   },
   "devDependencies": {
-    "mocha": "^3.2.0"
+    "mocha": "^6.2.1",
+    "restart": "^2.0.0"
   },
   "homepage": "https://github.com/yankouskia/additional_4#readme"
 }
